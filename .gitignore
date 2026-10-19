@@ -1,0 +1,8 @@
+/dist/
+/target/
+/.env
+/.env.*
+!/.env.example
+.idea/
+*.iml
+*.log
